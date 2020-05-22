@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Engineering Calculator</string>
+    <string name="text_0">0</string>
+    <string name="textBt8">8</string>
+    <string name="textBt7">7</string>
+    <string name="textBt9">9</string>
+    <string name="textBt4">4</string>
+    <string name="textBt5">5</string>
+    <string name="textBt0">0</string>
+    <string name="textBtDot">.</string>
+    <string name="textBt1">1</string>
+    <string name="textBt2">2</string>
+    <string name="textBt3">3</string>
+    <string name="textBt6">6</string>
+    <string name="text_T">T</string>
+    <string name="text_U">U</string>
+    <string name="text_R">R</string>
+    <string name="text_E">E</string>
+    <string name="text_V">V</string>
+    <string name="textBt_Dev">/</string>
+    <string name="textBt_Sub">*</string>
+    <string name="textBt_Min">-</string>
+    <string name="textBt_Sum">+</string>
+    <string name="textBt_Result">=</string>
+    <string name="text_hint">1.555556</string>
+    <string name="text_EngCal">Инженерный калькулятор</string>
+    <string name="text_ObCal">Обычный Калькулятор</string>
+    <string name="textBt_MC">MC</string>
+    <string name="textBt_Mplus">M+</string>
+    <string name="textBt_Mmin">M-</string>
+    <string name="textBt_MR">MR</string>
+    <string name="textHint_2">2.3655651662</string>
+</resources>
